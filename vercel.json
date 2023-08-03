@@ -1,0 +1,14 @@
+{
+    "functions": {
+      "JsonServer/data.js": {
+        "rewrites": [{ "source": "/JsonServer/data", "destination": "/JsonServer/data.js" }]
+      }
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
